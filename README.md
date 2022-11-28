@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **C#,.Net,Html/CSS,Js,MsSql**
+- 👯 I’m looking to collaborate on **C#,.Net,Html/CSS,Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BurakGuven1](https://github.com/BurakGuven1)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/burak-g%c3%bcven-a43617189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burak-g%c3%bcven-a43617189/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/burak-g%c3%bcven-a43617189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burak-g%c3%bcven-a43617189/" height="30" width="40" /></a>
 <a href="https://kaggle.com/burakgven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="burakgven" height="30" width="40" /></a>
 <a href="https://instagram.com/burakk.guveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakk.guveen" height="30" width="40" /></a>
 <a href="https://medium.com/@burakguven351999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@burakguven351999" height="30" width="40" /></a>
