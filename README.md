@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **C#,.Net,Html/CSS,Js**
+- 👯 I’m looking to collaborate on **C#,.Net,Html/CSS,Js,MsSql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BurakGuven1](https://github.com/BurakGuven1)
 
