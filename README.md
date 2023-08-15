@@ -5,7 +5,7 @@
 
 - 🔭 Internship-Software Developer Intern **Diyetasistan**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Vue.js**
 
 - 👯 I’m looking to collaborate on **C#,.Net,Html/CSS,Js**
 
