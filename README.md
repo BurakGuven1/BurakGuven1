@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakguven1&label=Profile%20views&color=0e75b6&style=flat" alt="burakguven1" /> </p>
 
-- 🔭 Internship-Software Developer Intern **Diyetasistan**
-
 - 🌱 I’m currently learning **React and Vue.js**
 
 - 👯 I’m looking to collaborate on **C#,.Net,Html/CSS,Js**
