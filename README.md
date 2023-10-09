@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Burak Güven</h1>
-<h3 align="center">I want to be Full Stack Developer. I am a final year computer engineering student.</h3>
+<h3 align="center">I I am a .Net Developer. I am improving myself in Vue.js and multiple technologies of .net.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakguven1&label=Profile%20views&color=0e75b6&style=flat" alt="burakguven1" /> </p>
 
-- 🌱 I’m currently learning **React and Vue.js**
+- 🌱 I’m currently learning **Vue.js,Redis,GraphQL,Unit Test**
 
-- 👯 I’m looking to collaborate on **C#,.Net,Html/CSS,Js**
+- 👯 I’m looking to collaborate on **C#,.Net Core,Vue.Js,Microservice,RabbitMQ,Sql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BurakGuven1](https://github.com/BurakGuven1)
 
