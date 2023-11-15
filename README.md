@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Güven</h1>
-<h3 align="center">I I am a .Net Developer. I am improving myself in Vue.js and multiple technologies of .net.</h3>
+<h3 align="center">I am a junior Full-Stack Developer. I am a .Net Developer. Vue.js, redis, rabbitmq and microservice etc. I am making improvements in technologies and learning at the same time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakguven1&label=Profile%20views&color=0e75b6&style=flat" alt="burakguven1" /> </p>
 
