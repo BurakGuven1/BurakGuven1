@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@burakguven351999](https://medium.com/@burakguven351999)
 
-- 📫 How to reach me **burakguven3599@gmail.com**
+- 📫 How to reach me **burakguven351999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
